@@ -1,0 +1,13 @@
+Create a modern and responsive FAQ (Frequently Asked Questions) section for a Tech Conference website using only HTML and CSS.
+
+Requirements:
+- Add a section title: "Frequently Asked Questions".
+- Add a short subtitle below the title.
+- Include 4 FAQ cards in a two-column responsive grid layout.
+- Each card should contain a question and a short answer related to the conference.
+- Use a clean, professional, and modern design that matches the rest of the website.
+- Apply soft blue and white colors with rounded corners.
+- Add a subtle hover effect with a shadow and slight upward movement.
+- Use consistent spacing, typography, and responsive design.
+- Do not use JavaScript or any external libraries.
+- The design should match a conference website with sections like Hero, Speakers, and Pricing.
