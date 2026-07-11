@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: sans-serif;
 }
 
 /*Nav Style start*/
@@ -328,3 +328,32 @@ header {
   }
 }
 /*End style Ai generate section*/
+
+/*Start style footer section*/
+
+.section {
+  background-color: #0b1523;
+  padding: 25px 40px;
+  margin-top: -15px;
+}
+
+.container-3 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.left-side p {
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.right-side a {
+  color: #ffffff;
+  font-size: 14px;
+  margin-left: 30px;
+}
+
+/*End style footer section*/
