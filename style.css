@@ -241,6 +241,15 @@ header {
   border-radius: 8px;
   cursor: pointer;
 }
+.outline-btn-3 {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid black;
+  background: white;
+  color: black;
+  border-radius: 8px;
+  cursor: pointer;
+}
 
 .pro-card .btn {
   width: 100%;
